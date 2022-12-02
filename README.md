@@ -28,5 +28,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidharthtripathi&" alt="sidharthtripathi" /></p>
 
-## 🐍 eating my graph
-![snake gif](https://github.com/sidharthtripathi/sidharthtripathi/blob/output/github-contribution-grid-snake.gif)
